@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\bin\Debug\net6.0-windows\Prosek u odeljenju.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\bin\Debug\net6.0-windows\Prosek u odeljenju.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\bin\Debug\net6.0-windows\Prosek u odeljenju.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\bin\Debug\net6.0-windows\Prosek u odeljenju.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\bin\Debug\net6.0-windows\Prosek u odeljenju.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\obj\Debug\net6.0-windows\Prosek u odeljenju.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\obj\Debug\net6.0-windows\Prosek_u_odeljenju.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\obj\Debug\net6.0-windows\Prosek u odeljenju.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\obj\Debug\net6.0-windows\Prosek u odeljenju.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\obj\Debug\net6.0-windows\Prosek u odeljenju.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\obj\Debug\net6.0-windows\Prosek u odeljenju.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\obj\Debug\net6.0-windows\Prosek u odeljenju.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\obj\Debug\net6.0-windows\Prosek u odeljenju.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\obj\Debug\net6.0-windows\refint\Prosek u odeljenju.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\obj\Debug\net6.0-windows\Prosek u odeljenju.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\obj\Debug\net6.0-windows\Prosek u odeljenju.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Prosek u odeljenju\Prosek u odeljenju\obj\Debug\net6.0-windows\ref\Prosek u odeljenju.dll

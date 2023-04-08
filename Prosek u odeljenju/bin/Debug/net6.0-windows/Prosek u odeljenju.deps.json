@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Prosek u odeljenju/1.0.0": {
+        "runtime": {
+          "Prosek u odeljenju.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prosek u odeljenju/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
